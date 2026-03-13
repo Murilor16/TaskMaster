@@ -6,8 +6,6 @@ Aplicação de gerenciamento de projetos e tarefas estilo Trello/Asana, constru�
 - **Backend**: Node.js + Express + TypeScript
 - **Banco de dados**: MongoDB (via Mongoose)
 
-Ideal para usar como projeto de portfólio.
-
 ---
 
 ## Demonstração rápida (como usar)
